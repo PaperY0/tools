@@ -1,6 +1,7 @@
 # tools
 
-该库是模仿 Java 的[hutool](https://github.com/dromara/hutool)工具库进行编写，编写一些实用的，偏向业务的工具库（判断身份证是否合法，手机号是否合法等）
+该库是模仿 Java 的[hutool](https://github.com/dromara/hutool)工具库,利用moonbit重构，编写一些实用的，偏向业务的工具库（判断身份证是否合法，手机号是否合法等）
+
 
 检测 18 位身份证是否合法
 
